@@ -8,11 +8,14 @@
 <body>
     <h1>Selamat Datang di Halaman Sederhana</h1>
     <p>Ini adalah contoh halaman HTML sederhana.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias autem consequuntur accusantium rerum commodi dignissimos, hic ducimus odit, rem consequatur quas temporibus neque eos tenetur repellat illum doloremque? Accusamus, asperiores.</p>
 
     <ul>
         <li>Item 1</li>
         <li>Item 2</li>
         <li>Item 3</li>
+        
     </ul>
+    
 </body>
 </html>
