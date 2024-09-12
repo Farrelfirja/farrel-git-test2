@@ -9,6 +9,7 @@
     <h1>Selamat Datang di Halaman Sederhana</h1>
     <p>Ini adalah contoh halaman HTML sederhana.</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias autem consequuntur accusantium rerum commodi dignissimos, hic ducimus odit, rem consequatur quas temporibus neque eos tenetur repellat illum doloremque? Accusamus, asperiores.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus ipsa officiis id? Totam, eligendi? Eum, laudantium id voluptates illo, magni assumenda explicabo sit, officiis aperiam libero aliquid. Quisquam, recusandae laborum.</p>
 
     <ul>
         <li>Item 1</li>
